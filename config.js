@@ -1,20 +1,16 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "11/20",
+    introTitle: 'Thầy cô',
+    introDesc: ` Nếu được hỏi "Thành công này bắt nguồn từ đâu?"
+    em sẽ trả lời rằng: "Là cô
+    - người đã mang đến cho chúng em kiến thức, hành trang bước vào đời".`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
+    title: Học sinh 10A2 ngoan không ạ 🥰',
+    desc: 'Thầy cô phải trả lời thật lòng  ',
+    btnYes: 'ngoan lắm <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
+    question: ' Nhân dịp 20/11 chúc thầy cô luôn mạnh khỏe, hạnh phúc để tiếp tục mang 
+    đến nhiều bài học hay và kiến thức bổ ích cho học sinh thân yêu!<3',
+   
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }

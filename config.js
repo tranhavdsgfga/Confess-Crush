@@ -1,20 +1,19 @@
 const CONFIG = {
     titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Thầy cô ',
+    introDesc: `Chúc các thầy cô dồi dào sức khoẻ
+    hạnh phúc để tiếp tục dìu dắt nhiều thế hệ học t
+    rò đến với những bến bờ tri thức`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
+    title: 'Đối với thầy cô học sinh lớp 10a2 ngoan không ạ  🥰',
+    desc: 'Chỉ chấp nhận câu trả lời thật lòng ',
+    btnYes: 'ngoan lắm <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    question: 'Thầy cô thích gì ở học sinh lướp 10a2 <3',
+    btnReply: 'Gửi đến 10a2 <3',
+    reply: 'Thầy cô dồi dài sức khỏe <33333333',
+    mess: 'Thầy cô  🥰. Yêu thầy cô nhiều nhiều 😘😘',
+    messDesc: 'Chúc thầy cô dồi dào sức khỏe.',
+    btnAccept: 'ok <3',
+    messLink: 'https://www.youtube.com/watch?v=-BcAVuSt9Gw&list=WL&index=4' 
 }

@@ -12,7 +12,7 @@ const CONFIG = {
     question: 'Chúc thầy cô dồi dài sức khỏe',
     btnReply: 'Gửi cho thầy cô <3',
     reply: 'Thầy cô một ngày 20/11 vui vẻ<33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
+ 
   
     messLink: https://www.youtube.com/watch?v=54yqn1BmrZs
 }
